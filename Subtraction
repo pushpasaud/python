@@ -1,0 +1,12 @@
+#Function to Subtract two numbers
+def subtract_numbers(num1,num2):
+    return num1-num2
+
+#Input from User
+number1=float(input("Enter the First Number: "))
+number2=float(input("Enter the second Number: "))
+
+#Performing Subtraction
+result=subtract_numbers(number1,number2)
+#Displaying the Result
+print(f"The subtraction of two numbers is:",result)
