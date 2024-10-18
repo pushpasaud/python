@@ -1,0 +1,4 @@
+x= 5
+y= ("hello_world!")
+print(x)
+print(y)
